@@ -3,7 +3,7 @@ name: 爱奇艺会员签到
 on:
     workflow_dispatch:
     schedule:
-        - cron: "59 15 * * *"
+        - cron: "58 15 * * *"
     watch:
         types: [started]
 
